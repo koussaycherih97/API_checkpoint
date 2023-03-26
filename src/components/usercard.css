@@ -1,0 +1,53 @@
+
+div {
+  font-family: Arial, sans-serif;
+  margin: 10px;
+}
+
+
+div:first-child {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+h4 {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+h5 {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+h6 {
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+
+
+h6 a {
+  color: #0099cc;
+  text-decoration: none;
+  font-style: italic;
+}
+
+
+h5 {
+  color: #00cc66;
+}
+  
+  
